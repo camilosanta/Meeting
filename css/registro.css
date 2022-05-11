@@ -1,0 +1,85 @@
+body{
+    
+    font-family:'Segoe UI' ;
+}
+.navar-principal-1{
+    width:100%;
+    height: 64px;
+    background-color:#2E9D2B ;
+    text-align: center;
+}
+#logo{
+   margin: 5px;
+}
+.div-registro{
+    margin:0px auto;
+    margin-top: 81px;
+    width: 423px;
+    height: 520px;
+    background-color:#F5F1F1 ;
+    border-radius: 28px;
+}
+.titulo{
+    width: 423px;
+    height: 65px;
+    border-radius: 28px;
+    background-color: white;
+    border: 1px solid white;
+}
+.titulo-registro{
+    font-size: 28px;
+    text-align: center;
+    margin-top: 14px;
+  
+}
+
+.inpust-registro1{
+    display: block;
+    margin-top: 57px;
+    width:404px ;
+    height: 65px;
+    border-radius:28px;
+    border: none;
+    margin-left:10px ;
+    font-size: 20px;
+    
+}
+.inpust-registro{
+    display: block;
+    margin-top: 5px;
+    width:404px ;
+    height: 65px;
+    border-radius:28px;
+    border: none;
+    margin-left:10px ;
+    font-size: 20px;
+}
+
+
+.inpust-registro::placeholder{
+   
+   font-size: 20px;
+   font-family:'Segoe UI' ; 
+  
+  
+}
+.inpust-registro1::placeholder{
+  
+    font-size: 20px;
+    font-family:'Segoe UI' ; 
+ }
+
+.boton{
+    margin-top: 33px;
+    width: 252px;
+    height: 65px;
+    border-radius: 33px;
+    background-color: #FF0000;
+    color: white;
+    border: none;
+    margin-left: 86px;
+}
+
+.red{
+    background-color: #FF0000;
+}
